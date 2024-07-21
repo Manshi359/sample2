@@ -1,2 +1,4 @@
-getting started installation
-getting started i have installed git and create a GitHub account and cloned the repository
+Getting Started 
+I have installed git and created a git repo and cloned on to the system
+Installation
+I have installed git from official git website
